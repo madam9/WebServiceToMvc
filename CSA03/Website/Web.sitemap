@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="">
+      <siteMapNode url="~/Default.aspx" title="Home"  description="" />
+      <siteMapNode url="~/Samples/Default.aspx" title="Samples" 
+                   description="ddm root to web page">
+        <siteMapNode url="~/Samples/ProductCRUD.aspx" title="Product Maintenance"
+                     description="single page CRUD sample"></siteMapNode>
+        <siteMapNode url="~/Samples/MultiRecordCodeBehind.aspx" title="MR - Code Behind"
+                     description="display multiple records using code behind"></siteMapNode>
+      <siteMapNode url="~/Samples/ODSQueries.aspx" title="MR - ODS Queries"
+                     description="display multiple records using ODS"></siteMapNode>
+      </siteMapNode>
+      <siteMapNode url="~/Contact.aspx" title="Contact"  description="" />
+      <siteMapNode url="~/About.aspx" title="About"  description="" />
+    </siteMapNode>
+</siteMap>
