@@ -18,3 +18,13 @@ C:\Users\dkingma1\Downloads\CSA03\CSA03\CSA03.System.Data\bin\Debug\EntityFramew
 C:\Users\dkingma1\Downloads\CSA03\CSA03\CSA03.System.Data\obj\Debug\CSA03.NorthwindSystem.Data.csprojResolveAssemblyReference.cache
 C:\Users\dkingma1\Downloads\CSA03\CSA03\CSA03.System.Data\obj\Debug\CSA03.NorthwindSystem.Data.dll
 C:\Users\dkingma1\Downloads\CSA03\CSA03\CSA03.System.Data\obj\Debug\CSA03.NorthwindSystem.Data.pdb
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\bin\Debug\CSA03.NorthwindSystem.Data.dll.config
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\bin\Debug\CSA03.NorthwindSystem.Data.dll
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\bin\Debug\CSA03.NorthwindSystem.Data.pdb
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\bin\Debug\EntityFramework.dll
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\bin\Debug\EntityFramework.xml
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\obj\Debug\CSA03.NorthwindSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\obj\Debug\CSA03.NorthwindSystem.Data.dll
+C:\Users\madam9\Documents\GitHub\WebServiceToMvc\CSA03\CSA03.System.Data\obj\Debug\CSA03.NorthwindSystem.Data.pdb
